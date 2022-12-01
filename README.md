@@ -25,15 +25,11 @@
 <h2 align="center"> Redes sociais </h2>
 
 <p align="center">
-<a href="https://twitter.com/desvalorizaram">
- <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram"/>
-</a>
 
-<a href="https://instagram.com/lskapriv">
- <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/>
-</a>
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/desvalorizaram)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/lskapriv/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/xhinzzzsv)
 </p>
-
 
 <h2 align="center">
   Meu gráfico <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
