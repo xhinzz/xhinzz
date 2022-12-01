@@ -36,7 +36,7 @@
 </a>
 
 <a href="https://t.me/xhinzzzsv">
- <img src="(https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"/>
+ <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"/>
 </a>
 </p>
 
