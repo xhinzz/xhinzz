@@ -1,11 +1,10 @@
 
 <p align="center">
- 
-</p align="center">
 <img src="https://media.discordapp.net/attachments/1045063616220647494/1047836951274864640/07b3848fea7be9a8b2c2199082d3d546.gif" />
+</p align="center">
 
  <p align="center">
-  Eu sou um estudante de analise 
+  Olá, meu nome é Lucas, tenho 22 anos e sou um estudante de análise e desenvolvimento de sistemas. Sou programador back-end e atuo também como gestor de tecnologia da empresa onde trabalho.
 </p>   
 
 <h2 align="center">Meus conhecimentos <img src="https://thumbs.gfycat.com/FirstHardtofindKrill.webp" width="50"></h2>
