@@ -1,6 +1,6 @@
+<h2 align="center"> Hello World </h2>
 
 <p align="center">
-Hello World
 <img src="https://media.discordapp.net/attachments/1045063616220647494/1047836951274864640/07b3848fea7be9a8b2c2199082d3d546.gif" />
 </p align="center">
 
@@ -24,8 +24,6 @@ Hello World
 </p>
 
 <h2 align="center"> Sociais </h2>
-</p>
-
 
 <p align="center">
 <a href="https://twitter.com/desvalorizaram">
