@@ -22,11 +22,11 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center"> Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+<h2 align="center"> Redes sociais </h2>
 
 <p align="center">
 <a href="https://twitter.com/desvalorizaram">
- <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram"/>
+ <img src="[https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram](https://img.shields.io/twitter/follow/desvalorizaram?logo=xhinz&style=social)"/>
 </a>
 </p>
 
