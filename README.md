@@ -8,7 +8,7 @@
   Eu sou um estudante de analise 
 </p>   
 
-<h2 align="center">Knowledge <img src="https://thumbs.gfycat.com/FirstHardtofindKrill.webp" width="50"></h2>
+<h2 align="center">Meus conhecimentos <img src="https://thumbs.gfycat.com/FirstHardtofindKrill.webp" width="50"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -26,11 +26,8 @@
 <h2 align="center"> Redes sociais <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://instagram.com/lskapriv">
- <img src="https://cdn-icons-png.flaticon.com/512/3621/3621435.png"/>
-</a>
 <a href="https://twitter.com/desvalorizaram">
- <img src="https://cdn-icons-png.flaticon.com/512/3256/3256013.png"/>
+ <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram"/>
 </a>
 </p>
 
