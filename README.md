@@ -26,7 +26,11 @@
 
 <p align="center">
 <a href="https://twitter.com/desvalorizaram">
- <img src="[https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram](https://img.shields.io/twitter/follow/desvalorizaram?logo=xhinz&style=social)"/>
+ <img src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fdesvalorizaram"/>
+</a>
+
+<a href="https://instagram.com/lskapriv">
+ <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)"/>
 </a>
 </p>
 
