@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
-<h2 align="center"> Redes sociais </h2>
+<h2 align="center"> Sociais </h2>
 </p>
 
 
@@ -41,14 +41,14 @@
 </p>
 
 <h2 align="center">
-  Meu gráfico <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+  Graphic
 </h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/xhinzz/xhinzz/6268d8993ad8c56b9fa37378a34fb29759339f5a/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 <h2 align="center">
-  Meu status<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+  Contribution status
 </h2>
  
 <br>
