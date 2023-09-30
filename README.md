@@ -5,7 +5,7 @@
 </p align="center">
 
  <p align="center">
-  Olá, meu nome é Lucas, tenho 22 anos e sou um estudante de análise e desenvolvimento de sistemas. Sou programador back-end e atuo também como gestor de tecnologia da empresa onde trabalho.
+  Olá, meu nome é Lucas, tenho 23 anos e sou um estudante de análise e desenvolvimento de sistemas. Sou programador back-end e atuo também como gestor de tecnologia da empresa onde trabalho.
 </p>   
 
 <h2 align="center">Meus conhecimentos <img src="https://thumbs.gfycat.com/FirstHardtofindKrill.webp" width="50"></h2>
