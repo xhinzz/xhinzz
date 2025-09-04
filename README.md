@@ -1,68 +1,116 @@
-<h2 align="center"> Hello World </h2>
+# 👋 Olá! Bem-vindo ao meu universo de código
 
-<p align="center">
-<img src="https://media.discordapp.net/attachments/1045063616220647494/1047836951274864640/07b3848fea7be9a8b2c2199082d3d546.gif" />
-</p align="center">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+em+Evolução" alt="Typing SVG" />
+</div>
 
- <p align="center">
-  Olá, meu nome é Lucas, tenho 23 anos e sou um estudante de análise e desenvolvimento de sistemas. Sou programador back-end e atuo também como gestor de tecnologia da empresa onde trabalho.
-</p>   
+## 🚀 Sobre Mim
 
-<h2 align="center">Meus conhecimentos <img src="https://thumbs.gfycat.com/FirstHardtofindKrill.webp" width="50"></h2>
+Sou um desenvolvedor apaixonado por tecnologia, sempre em busca de novos desafios e oportunidades para crescer. Acredito que o código é uma forma de arte e cada projeto é uma oportunidade de criar algo incrível.
 
-<p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-</p>
+```csharp
+public class Developer
+{
+    public string Name { get; set; } = "Lucas Lima";
+    public string Role { get; set; } = "Full Stack Developer";
+    public List<string> Passions { get; set; } = new() { "Coding", "Learning", "Innovation" };
+    
+    public void Code()
+    {
+        while (true)
+        {
+            Learn();
+            Build();
+            Improve();
+        }
+    }
+}
+```
 
-<h2 align="center"> Sociais </h2>
+## 🛠️ Stack Tecnológico
 
-<p align="center">
-<a href="https://twitter.com/desvalorizaram">
- <img src="https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white"/>
-</a>
- 
-<a href="https://instagram.com/lskapriv">
- <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white"/>
-</a>
+### Backend & APIs
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<a href="https://t.me/xhinzzzsv">
- <img src="https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white"/>
-</a>
-</p>
+### Mobile Development
+![Xamarin](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
-<h2 align="center">
-  Graphic
-</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xhinzz/xhinzz/6268d8993ad8c56b9fa37378a34fb29759339f5a/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+### Database
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2 align="center">
-  Contribution status
-</h2>
- 
-<br>
+## 📊 Estatísticas GitHub
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=xhinzz&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=xhinzz&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xhinzz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Stats" />
+</div>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=xhinzz&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhinzz&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Top Languages" />
+</div>
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=xhinzz&theme=redical">
-</p> 
-<hr>
-<p align="center">Obrigado por ter visto até aqui. ❤</p>
+## 🔥 Streak Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xhinzz&theme=tokyonight&hide_border=true&locale=pt-br" alt="GitHub Streak" />
+</div>
+
+## 💼 Experiência Técnica
+
+### 🖥️ Backend Development
+- **C# .NET**: Desenvolvimento de APIs RESTful, microserviços e aplicações enterprise
+- **Node.js**: Criação de serviços escaláveis e APIs performáticas
+- **Python**: Automação, análise de dados e desenvolvimento web
+
+### 📱 Mobile Development
+- **Xamarin**: Aplicações cross-platform para iOS e Android
+- Experiência com MVVM pattern e binding de dados
+
+### 🗄️ Database Management
+- **SQL**: Modelagem, otimização de queries e stored procedures
+- Experiência com diferentes SGBDs (SQL Server, MySQL, PostgreSQL)
+
+## 🌟 Projetos em Destaque
+
+```python
+projects = {
+    "backend": ["API .NET Core", "Microserviços", "Node.js REST API"],
+    "mobile": ["App Xamarin", "Cross-platform Solutions"],
+    "database": ["SQL Optimization", "Data Modeling", "ETL Processes"],
+    "automation": ["Python Scripts", "Data Analysis", "Process Automation"]
+}
+
+for category, items in projects.items():
+    print(f"{category}: {', '.join(items)}")
+```
+
+## 🎯 Objetivos 2025
+
+- [ ] Aprofundar conhecimentos em Cloud Computing (Azure/AWS)
+- [ ] Explorar Inteligência Artificial e Machine Learning
+- [ ] Contribuir mais para projetos Open Source
+- [ ] Dominar Docker e Kubernetes
+- [ ] Aprender React/Angular para desenvolvimento frontend
+
+## 📫 Vamos nos conectar?
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xhinzz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=xhinzz&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>"O código é poesia em movimento, cada função uma estrofe, cada algoritmo uma obra-prima."</i>
+</div>
