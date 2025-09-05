@@ -2,9 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20,24,30&height=280&section=header&text=こんにちは!%20I'm%20Lucas&fontSize=55&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Anime%20Enthusiast%20|%20Code%20Craftsman&descAlignY=55&descSize=18" alt="Header" />
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&background=FFFFFF00&center=true&vCenter=true&random=false&width=600&lines=🎌+Welcome+to+my+coding+dojo!;⚡+Building+the+future+with+code;🌸+Where+anime+meets+technology;💻+Turning+coffee+into+code+since+2015" alt="Typing SVG" />
-</div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
