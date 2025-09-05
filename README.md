@@ -47,7 +47,7 @@ class AnimeDevLucas {
 ## 🎯 **Current Quest**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Level-Senior%20Developer-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAADuSURBVHjajNK9SgNBFIXx38yPiaCFhZXgC1jYWdn5BNr4CBZWPoGFb2Ahgo2VjYWFWFgIFkIgwUQjbnZnZ87MXIsFN7gY8cCBW5zf5XAP/4T7Pf7NMAC2gE1gHVgDVtXaZtVaVWvnVa1VrZ1VtVa19gJYAtpAkyhLlCVKY6UxIASCcRgP8EdhhMO4APqB1gsAJy7Jg3z4ShZmQRaQZ0F2kAV5mMEDPA/y8BWeBdkneATwlMiTnCc5TnSOmNCYMKkzmTA1pjo1E5PqVEzqTCdMJkwniR7DQKPBaDS4bTfaDS4bDS4bNxreNBo8KnDjGhyvu+7NtajwOwC+x/0AsLJR5iVlrQ0AAAAASUVORK5CYII=">
+  <img src="https://img.shields.io/badge/Level-Junior%20Developer-FF6B6B?style=for-the-badge&labelColor=1a1a1a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAADuSURBVHjajNK9SgNBFIXx38yPiaCFhZXgC1jYWdn5BNr4CBZWPoGFb2Ahgo2VjYWFWFgIFkIgwUQjbnZnZ87MXIsFN7gY8cCBW5zf5XAP/4T7Pf7NMAC2gE1gHVgDVtXaZtVaVWvnVa1VrZ1VtVa19gJYAtpAkyhLlCVKY6UxIASCcRgP8EdhhMO4APqB1gsAJy7Jg3z4ShZmQRaQZ0F2kAV5mMEDPA/y8BWeBdkneATwlMiTnCc5TnSOmNCYMKkzmTA1pjo1E5PqVEzqTCdMJkwniR7DQKPBaDS4bTfaDS4bDS4bNxreNBo8KnDjGhyvu+7NtajwOwC+x/0AsLJR5iVlrQ0AAAAASUVORK5CYII=">
   <img src="https://img.shields.io/badge/Class-Code%20Ninja-A855F7?style=for-the-badge&labelColor=1a1a1a&logo=ninja">
   <img src="https://img.shields.io/badge/Guild-Anime%20Devs-3B82F6?style=for-the-badge&labelColor=1a1a1a&logo=discord">
 </div>
