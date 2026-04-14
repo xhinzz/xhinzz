@@ -65,18 +65,9 @@ For me, great software has a lot in common with great games: polish, immersion, 
 
 ---
 
-## GitHub stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xhinzz&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xhinzz&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
----
-
 ## Contact
 
-- **LinkedIn:** [lucaslima](https://linkedin.com/in/lucaslima)
+- **LinkedIn:** [lucaslima](https://linkedin.com/in/lucastflima)
 - **GitHub:** [xhinzz](https://github.com/xhinzz)
 
 ---
